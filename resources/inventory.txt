@@ -1,0 +1,104 @@
+STR*crumbed butterfly prawns-54.90-img/crumbedButterflyPrawns.jpg
+STR*Shrimp Cocktail-45.90-img/shrimpCocktail.jpg
+STR*Garlic Butter Snails-55.90-img/garlicSnails.jpg
+STR*Crumbed Mushrooms-45.90-img/crumbedMushrooms.jpg
+STR*Calamari with Rice-55.90-img/placeholdMenuItem.png
+STR*Creamy Garlic Mussels-55.90-img/placeholdMenuItem.png
+STR*Chicken Salad-69.90-img/placeholdMenuItem.png
+STR*Greek Salad-45.90-img/placeholdMenuItem.png
+STR*Calamari Salad-69.90-img/placeholdMenuItem.png
+STR*Salami & Cheese Roll-29.90-img/placeholdMenuItem.png
+STR*Garlic Roll-19.90-img/placeholdMenuItem.png
+STR*Garlic Pita-45.90-img/placeholdMenuItem.png
+STR*Three Cheese Pita-69.90-img/placeholdMenuItem.png
+STR*Feta & Olive Pita-69.90-img/placeholdMenuItem.png
+MAN*rocks jumbo Burger-59.90
+BRG*rocks jumbo Burger-59.90
+BRG*rocks jumbo chicken Burger-59.90
+BRG*Steak burger-59.90
+BRG*Beef Burger-29.90
+BRG*Cheese Burger-39.90
+BRG*Mushroom Burger-39.90
+BRG*Chicken Burger-39.90
+BRG*Rib Burger-34.90
+BRG*Triple Burger-69.90
+VEG*Vegetarian Pizza-69.90
+VEG*Vegetarian Platter-89.90
+KID*Kids Spare Ribs-58.90
+KID*Fish Fingers-29.90
+BSK*Rib Basket-69.90
+BSK*Chicken Basket-69.90
+BSK*Calamari Basket-69.90
+BSK*Mixed Basket-79.90
+SEA*Kingklip Grilled-109.90
+SEA*Cob(Kabeljou) Fried-109.90
+SEA*Hake Fried-68.90
+SEA*Sole Grilled-148.90
+SEA*Calamari Fried-89.90
+SEA*Fish Combo-109.90
+SEA*Prawns-99.90
+SEA*Mussels-99.90
+SEA*Seafood Platter-219.90
+SEA*Kingklip&Prawn Combo-189.90
+SEA*Hake & Prawn Combo-159.90
+SEA*2 Prawn kebabs grilled-59.90
+SEA*Sole Combo-179.90
+SEA*Seafood Salad-129.90
+SEA*Crumbed Prawn tails Basket-129.90
+GRL*1KG Rump-139.90
+GRL*1KG Rocks Grill-159.90
+GRL*1KG Beef Sosatie-159.90
+GRL*1KG PorkRibs-119.90
+GRL*TBone-119.90
+GRL*400g Rump-119.90
+GRL*200g Fillet-119.90
+GRL*600g Pork Ribs-89.90
+GRL*Rocks Special-59.90
+GRL*Mini Surf & Turf-99.90
+GRL*Maxi Surf & Turf-129.90
+GRL*Lamb cutlets-119.90
+GRL*Fisherman Special-119.90
+GRL*chef special-169.90
+GRL*Sosaties-85.90
+GRL*Combo-85.90
+GRL*Cheddarmelt-99.90
+GRL*Beef & Reef-119.90
+CKN*2 piece grill-49.90
+CKN*3 piece grill-75.90
+CKN*schnitzel-69.90
+PZA*Margherita-59.90
+PZA*Hawaiian-69.90
+PZA*mixed seafood-69.90
+PZA*Rocks pizza-69.90
+PZA*Vegetarian pizza-69.90
+PZA*Topping-9.90
+DST*Ice Cream & choc sauce-29.90
+DST*Waffle & cream or ice cream-29.90
+DST*Malva pudding-29.90
+DST*chocolate mousse-29.90
+DST*kiddies ice cream-14.90
+DST*kiddies waffle-16.90
+DST*Dom Pedro-29.90
+DST*Irish Coffee-29.90
+DST*Double Irish coffee-39.90
+EXA*Veggies-29.90
+EXA*Onion Rings-29.90
+EXA*Mushrooms-45.90
+SCS*Garlic-16.90
+SCS*Pepper-16.90
+SCS*Mushroom-16.90
+SCS*Cheese-16.90
+SCS*Garlic butter-16.90
+SCS*cheese & mushroom-16.90
+BEV*Small Milkshakes-12.90
+BEV*Large Milkshakes-25.90
+BEV*small Double thick milkshakes-25.90
+BEV*Large Double thick milkshakes-29.90
+BEV*small coffee shake-25.90
+BEV*large coffee shake-29.90
+BEV*fruit shake-25.90
+BEV*Filter coffee-9.50
+BEV*Cappuccino-17.00
+BEV*Tea-8.00
+BEV*Rooibos-8.00
+BEV*hot Chocolate-16.00
